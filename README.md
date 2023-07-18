@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A backend developer with good skills in frontend development and cloud services.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://i.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/wLNuW1tCKRiPmDV5Y4.gif';" alt="Developer GIF - Developer GIFs" style="max-width: 833px;">
+- 🏃 I’m currently trying **To be physically active** <img align="right" style="width:16rem; height:auto" src="https://i.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/wLNuW1tCKRiPmDV5Y4.gif';" alt="Developer GIF - Developer GIFs" style="max-width: 833px;">
 
 - 👯 I’m looking to collaborate on small projects
 
