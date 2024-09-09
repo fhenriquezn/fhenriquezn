@@ -8,7 +8,7 @@
 
 - 🏃 I’m currently trying **To be physically active** <img align="right" style="width:16rem; height:auto" src="https://i.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/wLNuW1tCKRiPmDV5Y4.gif';" alt="Developer GIF - Developer GIFs" style="max-width: 833px;">
 
-- 👯 I’m looking to collaborate on small projects
+- 👯 I am looking to work on any type of project
 
 - 🤝 I’m looking for help with **Backend Design**
 
